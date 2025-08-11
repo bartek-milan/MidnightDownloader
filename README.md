@@ -14,4 +14,4 @@ Resize the green window using the bottom-right red button to fit your downloadin
 # How it works:
 It takes a screenshot of the area every 5 minutes, then it measures the difference pixel-by-pixel from the taken and the original baseline screenshot. If at any point the difference is less than 2%, the program considers it complete and initiates the buffered shutdown (to avoid corrupting finishing file operations.)
 # Now you can sleep peacefully ^^
-# Created by: avatar198
+### Created by: Milan Bartek
