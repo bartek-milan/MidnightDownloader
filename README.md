@@ -5,9 +5,9 @@ Download games at night without using extra electricity, for free!
 Get the fully packaged executable from releases, or compile and modify it yourself!
 
 # To run it:
--pip install -r requirements.txt <br>
--python md.py
-
+-pip install -r requirements.txt  
+-python md.py  
+Note: you are free to edit my code, but first put it into a beautifier like https://codebeautify.org/python-formatter-beautifier
 # To use it:
 Resize the green window using the bottom-right red button to fit your downloading bar perfectly, and move it precisely onto the downloading bar. Once that's done, click on "Start".
 
